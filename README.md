@@ -42,5 +42,6 @@ The main objective of this project is to present sales performance insights usin
 
 ## 📸 Preview
 
-![Screenshot (18)](https://github.com/user-attachments/assets/3d9dde47-9eeb-4e22-9c03-80df1897a7f7)
+![Screenshot (18)](https://github.com/user-attachments/assets/5f336a9e-378c-4521-bfbf-ad585f244ebc)
+
 
